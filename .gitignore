@@ -1,0 +1,35 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android generated
+android/local.properties
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/GeneratedPluginRegistrant.java
+
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.history
